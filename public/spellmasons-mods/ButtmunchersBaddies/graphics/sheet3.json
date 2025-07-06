@@ -1,0 +1,28 @@
+{"frames": {
+
+"projectile.png":
+{
+	"frame": {"x":1,"y":67,"w":54,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":54,"h":50},
+	"sourceSize": {"w":64,"h":64}
+},
+"skip_turn.png":
+{
+	"frame": {"x":1,"y":1,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "sheet3.png",
+	"format": "RGBA8888",
+	"size": {"w":66,"h":118},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2bb48668eb9257ab8e850823e86d6e78:49402f6b15154b4b8f8b89552758ee47:0ce7b15b6dc02e2bc830d9390a8eca7d$"
+}
+}

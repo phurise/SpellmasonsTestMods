@@ -105,7 +105,6 @@ function add(unit: Unit.IUnit, underworld: Underworld, prediction: boolean) {
   getOrInitModifier(unit, freezeCardId, { isCurse: true, quantity: 1 }, () => {
     unit.radius = config.COLLISION_MESH_RADIUS;
     Unit.addEvent(unit, freezeCardId);
-
     // Prevents units from being pushed out of the way and units
     // act as a blockade
     unit.immovable = true;
